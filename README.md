@@ -1,5 +1,5 @@
 # Alliant Technologies Achievment Record
-List of completed tasks and achivements.
+List of completed or in progress tasks at Alliant Technologies. This is for me to record what I am doing and what I already did so I can vouch for myself when performance review time comes.
 
 | Week | Tasks | Description | Progress |
 | -- | ---- | ---- | --- |
